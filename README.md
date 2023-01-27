@@ -70,6 +70,7 @@ Actualmente estoy mejorando mis habilidades en VueJs/React con Typescript pero s
      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> 
   </a> 
 </p>
+
 ### Encuéntrame en otro lugar 🌎
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/harshkumarkhatri/)](https://www.linkedin.com/in/gigena-christian/)  

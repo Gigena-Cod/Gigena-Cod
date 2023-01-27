@@ -11,4 +11,4 @@ Actualmente estoy mejorando mis habilidades en VueJs/React con Typescript pero s
 
 ### Encuéntrame en otro lugar 🌎
 
-**[![Linkedin Badge](https://www.linkedin.com/in/gigena-christian/)]**
+[![Linkedin Badge](https://www.linkedin.com/in/gigena-christian/)]

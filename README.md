@@ -1,5 +1,5 @@
 
-### <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Hello, I'm [Christian Gigena](https://www.linkedin.com/in/gigena-christian/)!
+### <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Hola, soy [Christian Gigena](https://www.linkedin.com/in/gigena-christian/)!
 
 Trabajo como **Frontend Developer** con habilidades de Quality Assurance  (front-end designer). Estoy radicado en Córdoba, Argentina.
 
